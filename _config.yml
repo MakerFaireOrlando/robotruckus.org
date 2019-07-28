@@ -7,16 +7,16 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+url: https://makerfaireorlando.github.io/robotruckus.org
+baseurl: "/robotruckus.org"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 2973388149
-data-ad-client: ca-pub-9204963049240271
-google_ad_client: ca-pub-9204963049240271
+data-ad-slot: 
+data-ad-client: 
+google_ad_client: 
 
 post_limit: 5
 
