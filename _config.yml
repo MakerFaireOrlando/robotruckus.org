@@ -21,22 +21,6 @@ google_ad_client:
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
-author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
-  image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
-  feedburner : 
-
 twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -117,11 +101,11 @@ JB :
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
-  #
+  # tracking_id : 'UA-94080000-1'
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+        tracking_id : ''
     getclicky :
       site_id :
     mixpanel :
