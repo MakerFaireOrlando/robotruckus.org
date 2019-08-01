@@ -14,9 +14,9 @@ baseurl: "/robotruckus.org"
 #
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 
-data-ad-client: 
-google_ad_client: 
+data-ad-slot:
+data-ad-client:
+google_ad_client:
 
 post_limit: 5
 
@@ -86,12 +86,12 @@ JB :
   #
   comments :
     provider : disqus
-    disqus : 
+    disqus :
       short_name : jeky-new-age
     #livefyre :
-    #  site_id : 
+    #  site_id :
     #intensedebate :
-    #  account : 
+    #  account :
     #facebook :
     #  appid :
       num_posts: 5
@@ -132,3 +132,7 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+
+  collections:
+    - battlebots-teams 
