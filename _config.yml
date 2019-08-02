@@ -9,9 +9,12 @@ extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://makerfaireorlando.github.io/robotruckus.org
 baseurl: "/robotruckus.org"
-# Themes are encouraged to use these universal variables
-# so be sure to set them if your theme uses them.
-#
+
+collections:
+  battlebots:
+    output: true
+
+
 
 #Google Ad Words Data from scripts code (using Google responsive options) and ad client
 data-ad-slot:
@@ -132,7 +135,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-
-  collections:
-    - battlebots-teams 

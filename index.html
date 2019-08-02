@@ -198,42 +198,27 @@ canonical: http://www.robotruckus.org
                     <div class="sub-title">
                       <span>BattleBots Teams attending Robot Ruckus 2019</span>
                     </div>
+
                     <div class="row">
+
+                    {% for team in site.battlebots %}
+
                       <div class="col-sm-6 col-md-6">
                         <!-- Team Item Starts -->
                         <figure>
-                          <img src="assets/images/battlebots-teams/Axe-Backwards-Team-S2019.jpg" alt="">
+                          <img src="assets/images/battlebots-teams/{{ team.team-photo }}" alt="">
                           <div class="image-overlay">
                             <div class="overlay-text text-center">
                               <div class="info-text">
-                                <strong>Axe-Backwards</strong>
-                                <span>Full Bodied Drum Spinner</span>
+                                <strong>{{ team.bot-name }}</strong>
+                                <span>{{ team.participation }}</span>
                               </div>
                               <hr class="small-divider border-white">
                               <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/AxeBackwards/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.youtube.com/c/KurTrox"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/axe_backwards"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </figure>
-                        <!-- Team Item Ends -->
-                      </div>
-                      <div class="col-sm-6 col-md-6">
-                        <!-- Team Item Starts -->
-                        <figure>
-                          <img src="assets/images/battlebots-teams/Captain-Shrederator-Team-S2019.jpg" alt="">
-                          <div class="image-overlay">
-                            <div class="overlay-text text-center">
-                              <div class="info-text">
-                                <strong>Captain Shrederator</strong>
-                                <span>Full Bodied Spinner</span>
-                              </div>
-                              <hr class="small-divider border-white">
-                              <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/spinwinning"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.facebook.com/battlebeachllc"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                {% if team.facebook %}<li><a href="https://www.facebook.com/{{team.facebook}}/" target = "_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>{% endif %}
+                                {% if team.instagram %}<li><a href="https://www.instagram.com/{{team.instagram}}" target = "_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>{% endif %}
+                                {% if team.twitter %}<li><a href="https://www.twitter.com/{{team.twitter_username}}" target = "_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>{% endif %}
+                                {% if team.youtube %}<li><a href="https://www.youtube.com/c/{{team.youtube}}" target = "_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>{% endif %}
                               </ul>
                             </div>
                           </div>
@@ -241,93 +226,12 @@ canonical: http://www.robotruckus.org
                         <!-- Team Item Ends -->
                       </div>
 
-                      <div class="col-sm-6 col-md-6">
-                        <!-- Team Item Starts -->
-                        <figure>
-                          <img src="assets/images/battlebots-teams/Extinguisher-Team-S2019.jpg" alt="">
-                          <div class="image-overlay">
-                            <div class="overlay-text text-center">
-                              <div class="info-text">
-                                <strong>Extinguisher</strong>
-                                <span>Hammer, launcher, vertical bar spinner</span>
-                              </div>
-                              <hr class="small-divider border-white">
-                              <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/extinguisherbattlebot"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/extinguisherbattlebot"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </figure>
-                        <!-- Team Item Ends -->
-                      </div>
-
-                      <div class="col-sm-6 col-md-6">
-                        <!-- Team Item Starts -->
-                        <figure>
-                          <img src="assets/images/battlebots-teams/Foxtrot-Team-S2019.jpg" alt="">
-                          <div class="image-overlay">
-                            <div class="overlay-text text-center">
-                              <div class="info-text">
-                                <strong>Foxtrot</strong>
-                                <span>Lifter</span>
-                              </div>
-                              <hr class="small-divider border-white">
-                              <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/teamdanby"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.twitter.com/teamdanby"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/teamdanby"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </figure>
-                        <!-- Team Item Ends -->
-                      </div>
-
-                      <div class="col-sm-6 col-md-6">
-                        <!-- Team Item Starts -->
-                        <figure>
-                          <img src="assets/images/battlebots-teams/Gruff-Team-S2019.jpg" alt="">
-                          <div class="image-overlay">
-                            <div class="overlay-text text-center">
-                              <div class="info-text">
-                                <strong>Gruff</strong>
-                                <span>Lifter/Grappler + Torch</span>
-                              </div>
-                              <hr class="small-divider border-white">
-                              <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/gruffrobot"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </figure>
-                        <!-- Team Item Ends -->
-                      </div>
-
-                      <div class="col-sm-6 col-md-6">
-                        <!-- Team Item Starts -->
-                        <figure>
-                          <img src="assets/images/battlebots-teams/Kraken-Team-S2019.jpg" alt="">
-                          <div class="image-overlay">
-                            <div class="overlay-text text-center">
-                              <div class="info-text">
-                                <strong>Kraken</strong>
-                                <span>Crusher</span>
-                              </div>
-                              <hr class="small-divider border-white">
-                              <ul class="social-icons">
-                                <li><a href="https://www.facebook.com/krackenbattlebot"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.twitter.com/krackenbattlebot"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                                <li><a href="https://www.instagram.com/krackenbattlebot"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </figure>
-                        <!-- Team Item Ends -->
-                      </div>
-
-
+                    {% endfor %}
                     </div>
+
+
+
+
                   </div>
                   Please note that Battlebot team participation is based on their travel schedule and is subject to change at any time.
             </div>
