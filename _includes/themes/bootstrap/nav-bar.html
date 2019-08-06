@@ -1,8 +1,8 @@
             <div class="top-menu">
               <p>
                 <span class="left">
-                  <a href="https://makerfaireorlando.eventbrite.com"><i class="fa fa-calendar"></i>November 9th & 10th, 2019</a>
-                            <a href="#"><i class="fa fa-map-marker"></i>Orlando, FL</a>
+                  <a href="{{site.url}}{{site.baseurl}}/#tickets"><i class="fa fa-calendar"></i>November 9th & 10th, 2019</a>
+                            <a href="{{site.url}}{{site.baseurl}}/#tickets"><i class="fa fa-map-marker"></i>Orlando, FL</a>
                   <a href="mailto:contact@robotruckus.org"><i class="fa fa-envelope"></i>contact@robotruckus.org</a>
               	</span>
                 <span class="right hidden-sm-down">
@@ -17,23 +17,17 @@
             <!-- navbar-default -->
             <nav class="navbar navbar-toggleable-sm navbar-light bg-default">
               <div class="container">
-                <a class="navbar-brand" href="{{ BASE_PATH }}"><img src="assets/images/robot_ruckus_logo_300w.png" alt=""></a>
+                <a class="navbar-brand" href="{{site.url}}{{site.baseurl}}/"><img src="assets/images/robot_ruckus_logo_300w.png" alt=""></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-expanded="false" aria-label="Toggle navigation">
                   <i class="fa fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbar1">
                   <ul class="navbar-nav">
-                    {% assign pages_list = site.pages %}
-                    {% assign group = 'navigation' %}
-                    {% include JB/pages_list %}
-                    <li class="nav-item dropdown">
-                      <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown link</a>
-                      <div class="dropdown-menu">
-                        <a class="dropdown-item" href="#">Action</a>
-                        <a class="dropdown-item" href="#">Another action</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
-                      </div>
-                    </li>
+                    <li class="nav-item"><a class="nav-link" href="{{site.url}}{{site.baseurl}}/#tickets">Get Tickets</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{site.url}}{{site.baseurl}}/#battlebots">Battlebot Teams</a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://ruckus-fundraiser.eventbrite.com" target="_blank">VIP Fundraiser</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{site.url}}{{site.baseurl}}/compete">Compete @ Robot Ruckus</a></li>
+
                   </ul>
                 </div>
               </div>
