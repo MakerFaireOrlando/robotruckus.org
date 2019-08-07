@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 #url: https://makerfaireorlando.github.io/robotruckus.org
-baseurl: ""
+#baseurl: ""
 
 collections:
   battlebots:
