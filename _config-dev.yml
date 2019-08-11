@@ -7,7 +7,7 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: 127.0.0.1:4000/robotruckus.org
+#url: 127.0.0.1:4000/robotruckus.org/
 baseurl: "/robotruckus.org"
 
 collections:
@@ -24,7 +24,6 @@ google_ad_client:
 post_limit: 5
 
 
-twitter_username: lantoniotrento
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
