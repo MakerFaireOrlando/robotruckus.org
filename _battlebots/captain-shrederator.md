@@ -14,5 +14,5 @@ battlebots-url: https://battlebots.com/robot/captain-shrederator-2019/
 team-photo: Captain-Shrederator-Team-S2019.jpg
 bot-photo: Captain-Shrederator-Bot-S2019.jpg
 driver-photo: Captain-Shrederator-Brian-and-Nick-Nave-s2019.jpg
-participation: See Captain Shrederator on display while Team LOGICOM is competing with a non-Battlebots heavyweight and participating in a panel discussion!
+participation: See Captain Shrederator on display while Team LOGICOM is competing with a non-BattleBots heavyweight and participating in a panel discussion!
 ---
