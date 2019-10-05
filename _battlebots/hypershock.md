@@ -1,6 +1,6 @@
 ---
-team-name: Team Hypershock
-bot-name: Hypershock
+team-name: Team HyperShock
+bot-name: HyperShock
 facebook: hypershocktv
 twitter: hypershocktv
 instagram: hypershocktv
@@ -14,5 +14,5 @@ battlebots-url: https://battlebots.com/robot/hypershock-2019/
 team-photo: HyperShock-Team-S2019.jpg
 bot-photo: HyperShock-Bot-S2019.jpg
 driver-photo: HyperShock-Will-Bales-s2019
-participation: See Hypershock on display, and hear from Will Bales at one of our panel discussions, or meet him at the Ruckus VIP Fundraiser!
+participation: See HyperShock on display, and hear from Will Bales at one of our panel discussions, or meet him at the Ruckus VIP Fundraiser!
 ---
