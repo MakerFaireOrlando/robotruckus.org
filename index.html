@@ -91,7 +91,7 @@ canonical: https://robotruckus.org
 	<div id="features" class="container">
 	<!-- SERVICES -->
             <div class="sub-title">
-              <span>Be part of the Ruckus!</span>
+              <span>Robot Ruckus is back for 2021!</span>
             </div>
             <div class="row">
               <!-- Start Service Icon 1 -->
@@ -111,7 +111,10 @@ canonical: https://robotruckus.org
               <div class="col-md-4 col-sm-6">
                 <div class="service-box">
                   <div class="service-content">
+                    {% comment %}
                     <h4><a href="{{ "/#battlebots" | prepend:site.baseurl }}">{{site.battlebots.size}} BattleBots Teams!</a></h4>
+                    {% endcomment %}
+                    <h4><a href="{{ "/#battlebots" | prepend:site.baseurl }}">BattleBots Teams from TV!</a></h4>
                     <p>
                       Meet your favorite BattleBots builders!
                     </p>
@@ -124,9 +127,9 @@ canonical: https://robotruckus.org
               <div class="col-md-4 col-sm-6">
                 <div class="service-box">
                   <div class="service-content">
-                    <h4><a href="{{ "/compete" | prepend:site.baseurl }}">156 Fighting Robots!</a></h4>
+                    <h4><a href="{{ "/compete" | prepend:site.baseurl }}">Dozens of Fighting Robots!</a></h4>
                     <p>
-                      156 robots competing in weight classes from 150 grams to 250 pounds!
+                      Robots competing in weight classes up to 250 pounds!
                     </p>
                   </div>
                 </div>
@@ -153,7 +156,14 @@ canonical: https://robotruckus.org
                   <div class="service-content">
                     <h4><a href="https://ruckus-fundraiser.eventbrite.com" target="_blank">Event Schedule</a></h4>
                     <p>
+<<<<<<< Updated upstream
                       The Robot Ruckus Tournament is 10AM to 5PM on November 13th & 14th. Check the <a href="https://www.makerfaireorlando.com/schedule/" target="_blank">Maker Faire Orlando Schedule</a> for BattleBots panels & more!
+=======
+                      The Robot Ruckus Tournament takes place at Maker Faire Orlando on November 13th & 14th. Check back later this summer for the event schedule.
+                      {% comment %}
+                      Check the <a href="https://www.makerfaireorlando.com/schedule/" target="_blank">Maker Faire Orlando Schedule</a> for the latest info!
+                      {% endcomment %}
+>>>>>>> Stashed changes
                     </p>
                   </div>
                 </div>
@@ -175,19 +185,29 @@ canonical: https://robotruckus.org
               <!-- End Service Icon 6 -->
             </div>
 	    </div>
+
             <div class="mb-60"></div>
             <div class="mb-60"></div>
 
             <div class="container">
               <div class="row">
                 <div class="col-xs-12 col-sm-12">
+                  <div class="sub-title" style="margin-bottom:10px;">
+                    <span>High Energy Robot Competition!</span>
+                  </div>
+                  <p class="lead">
+                    Have you imagined seeing your favorite Battlebots from TV fighting live? Check out this video from Robot Ruckus 2019 to get a glimpse of the fun at Robot Ruckus!
+                    </p>
                   <div class="video-responsive">
+                    {% comment %}
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/JuKemjBdMwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    {% endcomment %}
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/k0ADHBw3jLQ?start=12" title="Mammoth vs. Gruff - Robot Ruckus 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>
             </div>
-
+      {% comment %}
             <!-- Team Members 04 -->
             <a name="battlebots"</a>
             <div class="container">
@@ -232,7 +252,7 @@ canonical: https://robotruckus.org
                   </div>
             </div>
             <!-- End Team Members 04 -->
-
+        {% endcomment %}
 	  <div class="mb-60"></div>
     <div class="mb-60"></div>
     <div class="mb-60"></div>
@@ -243,7 +263,7 @@ canonical: https://robotruckus.org
           <div class="row">
             <div class="col-xs-12 col-sm-12">
               <div class="sub-title">
-                <span>Robot Ruckus is included with your Maker Faire Orlando 2019 ticket!</span>
+                <span>Robot Ruckus is included with your Maker Faire Orlando 2021 ticket!</span>
               </div>
               <p class="lead">
                 Immerse yourself in Maker culture at <a href="https://www.makerfaireorlando.com" target="_blank">Maker Faire Orlando</a> with endless exhibits, a performance stage, big art and spectacle,
@@ -256,22 +276,35 @@ canonical: https://robotruckus.org
                 </p>
                 <p class="lead">
                   Your Maker Faire Orlando ticket helps fund the non-profit event and the upkeep of the heavyweight combat robot arena!
+                  {% comment %}
                   <a href="https://makerfaireorlando.eventbrite.com">Get your tickets today!</a>
+                  {% endcomment %}
+                  Maker Faire Orlando 2021 tickets will be on-sale later this summer, <a href="http://eepurl.com/bpCB8T">subscribe to our email updates</a> to stay informed!.
                   </p>
+            {% comment %}
             <div class="video-responsive">
               <iframe width="560" height="315" src="https://www.youtube.com/embed/ZF23DRl-9Ms" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
               </div>
+            {% endcomment %}
             </div>
+            {% comment %}
             <div class="col-xs-12 col-sm-12">
               <div class="hero-content-v2">
                 <a href="https://makerfaireorlando.eventbrite.com" class="btn btn-lg btn-default-filled animated fadeInUp">Get Your Maker Faire Orlando Tickets!</a>
+              </div>
+            </div>
+            {% endcomment %}
+            <div class="col-xs-12 col-sm-12">
+              <div style="margin-top:20px">
+                <a href="http://eepurl.com/bpCB8T" class="btn btn-lg btn-default-filled animated fadeInUp">Subscribe to Receive Robot Ruckus News and Ticket Info!</a>
               </div>
             </div>
           </div>
         </div>
 
 	<!-- END HEADER -->
+
 
 
 
