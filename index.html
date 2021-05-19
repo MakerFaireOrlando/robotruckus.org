@@ -205,19 +205,19 @@ canonical: https://robotruckus.org
                 </div>
               </div>
             </div>
-      {% comment %}
+
             <!-- Team Members 04 -->
             <a name="battlebots"</a>
             <div class="container">
                   <div class="team-members-tow mtb-50">
                     <div class="sub-title">
-                      <span>BattleBots Teams attending Robot Ruckus 2019</span>
+                      <span>BattleBots Teams attending Robot Ruckus 2021</span>
                     </div>
 
                     <div class="row">
 
                     {% for team in site.battlebots %}
-
+                      {% if team.confirmed %}
                       <div class="col-sm-6 col-md-6">
                         <!-- Team Item Starts -->
                         <figure>
@@ -226,7 +226,10 @@ canonical: https://robotruckus.org
                             <div class="overlay-text text-center">
                               <div class="info-text">
                                 <strong>{{ team.bot-name }}</strong>
-                                <span>{{ team.participation }}</span>
+                                {% comment %}
+                                  <span>{{ team.participation }}</span>
+                                {% endcomment %}
+
                               </div>
                               <hr class="small-divider border-white">
                               <ul class="social-icons">
@@ -240,17 +243,17 @@ canonical: https://robotruckus.org
                         </figure>
                         <!-- Team Item Ends -->
                       </div>
-
+                      {% endif %}
                     {% endfor %}
                     </div>
 
                   </div>
                   <div>
-                  <h6>Please note that Battlebot team participation is based on their travel schedule and is subject to change at any time. Hover over each team to learn more about their planned participation.</h6>
+                  <h6>Please note that Battlebot team participation is based on their travel schedule and is subject to change at any time. {% comment %}Hover over each team to learn more about their planned participation. {% endcomment %}</h6>
                   </div>
             </div>
             <!-- End Team Members 04 -->
-        {% endcomment %}
+
 	  <div class="mb-60"></div>
     <div class="mb-60"></div>
     <div class="mb-60"></div>
