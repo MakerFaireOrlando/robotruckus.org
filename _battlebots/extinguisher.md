@@ -1,6 +1,7 @@
 ---
 team-name: Quicksilver's Robotics
 bot-name: Extinguisher
+confirmed: true
 facebook: ExtinguisherBattlebot
 twitter:
 instagram: ExtinguisherBattlebot

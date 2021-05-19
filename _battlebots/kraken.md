@@ -1,6 +1,7 @@
 ---
 team-name: Team Kraken
 bot-name: Kraken
+confirmed: true
 facebook: KrakenBattleBot
 twitter: KrakenBattleBot
 instagram: KrakenBattleBot

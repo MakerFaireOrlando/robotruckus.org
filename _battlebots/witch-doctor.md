@@ -1,5 +1,6 @@
 ---
 team-name: Team Witch Doctor
+confirmed: true
 bot-name: Witch Doctor
 facebook: witchdrshaman
 twitter:
