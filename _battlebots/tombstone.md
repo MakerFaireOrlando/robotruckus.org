@@ -1,6 +1,7 @@
 ---
 team-name: Hardcore Robotics
 bot-name: Tombstone
+confirmed: true
 facebook: tombstonebot
 twitter:
 instagram:
@@ -11,9 +12,9 @@ other-compete: yes
 vip-event: yes
 panel: yes
 battlebots-url: https://battlebots.com/robot/tombstone-2019/
-team-photo: Tombstone-Team-S2019.jpg
-bot-photo: Tombstone-Bot-S2019.jpg
-driver-photo: Tombstone-Ray-Billings-s2019.jpg
+team-photo: Tombstone-Team-2020.jpg
+bot-photo: Tombstone-bot-2020.jpg
+driver-photo: Tombstone-Ray-Billings-2020.jpg
 participation: Ray Billings from Hardcore Robotics will be competing with one of his fun-sized bots, participating in a panel discussion, and joining us for the Ruckus VIP Fundraiser!
 
 ---
