@@ -11,7 +11,7 @@ heavy-static: no
 other-compete: no
 vip-event: yes
 panel: yes
-battlebots-url: https://battlebots.com/robot/foxtrot-2019/
+battlebots-url: https://battlebots.com/robot/slammow-2020/
 team-photo: SlamMow-Team-2020.jpg
 bot-photo: SlamMow-bot-2020.jpg
 driver-photo: SlamMow-Craig-Danby-2020
