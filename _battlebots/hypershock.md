@@ -1,18 +1,19 @@
 ---
 team-name: Team HyperShock
 bot-name: HyperShock
+confirmed: true
 facebook: hypershocktv
 twitter: hypershocktv
 instagram: hypershocktv
 youtube:
-heavy-compete: maybe
-heavy-static: Yes
-other-compete: no
-vip-event: yes
-panel: yes
+heavy-compete: 
+heavy-static:
+other-compete:
+vip-event:
+panel:
 battlebots-url: https://battlebots.com/robot/hypershock-2019/
-team-photo: HyperShock-Team-S2019.jpg
-bot-photo: HyperShock-Bot-S2019.jpg
-driver-photo: HyperShock-Will-Bales-s2019
-participation: See HyperShock on display, and hear from Will Bales at one of our panel discussions, or meet him at the Ruckus VIP Fundraiser!
+team-photo: HyperShock-Team-2020.jpg
+bot-photo: HyperShock-bot-2020.jpg
+driver-photo: HyperShock-bot-2020.jpg
+participation:
 ---
