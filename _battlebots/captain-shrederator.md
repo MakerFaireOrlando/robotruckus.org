@@ -1,18 +1,19 @@
 ---
 team-name: Team LOGICOM
 bot-name: Captain Shrederator
+confirmed: true
 facebook: spinwinning
 twitter:
 instagram:
 youtube:
-heavy-compete: yes
-heavy-static: yes
-other-compete: yes
-vip-event: maybe
-panel: yes
-battlebots-url: https://battlebots.com/robot/captain-shrederator-2019/
-team-photo: Captain-Shrederator-Team-S2019.jpg
-bot-photo: Captain-Shrederator-Bot-S2019.jpg
-driver-photo: Captain-Shrederator-Brian-and-Nick-Nave-s2019.jpg
-participation: See Captain Shrederator on display while Team LOGICOM is competing with a non-BattleBots heavyweight and participating in a panel discussion!
+heavy-compete:
+heavy-static:
+other-compete:
+vip-event:
+panel:
+battlebots-url: https://battlebots.com/robot/captain-shrederator-2020/
+team-photo: Captain-Shrederator-Team.jpg
+bot-photo: Captain-Shrederator-bot-2020.jpg
+driver-photo: Captain-Shrederator-Brian-Nave-2020.jpg
+participation: 
 ---
