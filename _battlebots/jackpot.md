@@ -1,7 +1,7 @@
 ---
 team-name: Vegas Combat Robotics
 bot-name: JackPot
-confirmed: true
+confirmed: false
 facebook: JackPotBattleBots
 instagram: vegas_combat_robotics
 youtube:
@@ -14,5 +14,5 @@ battlebots-url: https://battlebots.com/robot/jackpot-2019/
 team-photo: Jackpot-Team-2020.jpg
 bot-photo: Jackpot-bot-2020.jpg
 driver-photo:
-participation: 
+participation:
 ---

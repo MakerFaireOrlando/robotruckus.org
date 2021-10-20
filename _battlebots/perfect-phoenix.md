@@ -1,7 +1,7 @@
 ---
 team-name: Perfect Phoenix
 bot-name: Perfect Phoenix
-confirmed: true
+confirmed: false
 facebook: TylerNguyen09
 twitter:
 instagram:
