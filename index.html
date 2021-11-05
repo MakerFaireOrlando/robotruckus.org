@@ -223,10 +223,11 @@ canonical: https://robotruckus.org
                     <h4>
                       BattleBots Teams attending Robot Ruckus 2021
                     </h4>
+                    {%comment%}
                     <div class="sub-title">
                         We are working with each team to determine if they will be competing, exhibiting, etc. Check back for more info...
                       </div>
-
+                    {%endcomment%}
                     <div class="row">
 
                     {% for team in site.battlebots %}
@@ -239,9 +240,9 @@ canonical: https://robotruckus.org
                             <div class="overlay-text text-center">
                               <div class="info-text">
                                 <strong>{{ team.bot-name }}</strong>
-                                {% comment %}
+
                                   <span>{{ team.participation }}</span>
-                                {% endcomment %}
+
 
                               </div>
                               <hr class="small-divider border-white">
