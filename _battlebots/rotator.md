@@ -11,9 +11,9 @@ heavy-static: yes
 other-compete: no
 vip-event: yes
 panel: yes
-battlebots-url: https://battlebots.com/robot/shatter-2019/
-team-photo: Rotator-Team-S2019.jpg
-bot-photo: Rotator-Bot-S2019.jpg
-driver-photo: Rotator-Victor-Soto-s2019.jpg
+battlebots-url: https://battlebots.com/robot/rotator-2021/
+team-photo: Rotator-Team-2021.jpg
+bot-photo: Rotator-bot-2021.jpg
+driver-photo: Rotator-Victor-Soto-2021.jpg
 participation: Rotator will be on display and the team will be available for meet and greet throughout the weekend and at the Ruckus VIP Fundraiser!
 ---

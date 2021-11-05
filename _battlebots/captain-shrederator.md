@@ -11,9 +11,9 @@ heavy-static: yes
 other-compete: no
 vip-event: yes
 panel:
-battlebots-url: https://battlebots.com/robot/captain-shrederator-2020/
-team-photo: Captain-Shrederator-Team.jpg
-bot-photo: Captain-Shrederator-bot-2020.jpg
-driver-photo: Captain-Shrederator-Brian-Nave-2020.jpg
+battlebots-url: https://battlebots.com/robot/captain-shrederator-2021/
+team-photo: Captain-shrederator-2021.jpg
+bot-photo: Captain-Shrederator-bot-2021.jpg
+driver-photo: Captain-Shrederator-Brian-Nave-2021.jpg
 participation:
 ---
