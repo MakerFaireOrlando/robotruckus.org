@@ -1,6 +1,7 @@
 ---
 team-name: Western Allied Robotics
 bot-name: Warhawk
+confirmed: false
 participation: Team Western Allied Robotics will be fighting a non-Battlebots heavyweight robot, participating in an panel discussion and will be joining us for the Ruckus VIP fundraiser.
 facebook: warhawkbb
 twitter:

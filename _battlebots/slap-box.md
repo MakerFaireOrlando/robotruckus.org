@@ -1,7 +1,7 @@
 ---
 team-name: Team Already Broke
 bot-name: Slap Box
-confirmed: true
+confirmed: false
 facebook: BattleBotsSlapBox
 twitter:
 instagram:

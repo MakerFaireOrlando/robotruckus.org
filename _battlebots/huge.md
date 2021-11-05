@@ -1,18 +1,19 @@
 ---
 team-name: Team HUGE
 bot-name: HUGE
+confirmed: false
 facebook: BattleBotsHuge
 twitter:
 instagram:
 youtube:
-heavy-compete: Yes
+heavy-compete: no
 heavy-static: no
-other-compete: maybe
-vip-event: yes
-panel: yes
+other-compete: no
+vip-event: no
+panel:
 battlebots-url: https://battlebots.com/robot/huge-2019/
 team-photo: HUGE-Team-S2019.jpg
 bot-photo: HUGE-Bot-S2019.jpg
 driver-photo: HUGE-Jonathan-Schultz-s2019
-participation: Team HUGE is bringing a non-BattleBots heavyweight to compete, and may have some smaller bots in tow. You can also hear from the team at a panel discussion!
+participation:
 ---

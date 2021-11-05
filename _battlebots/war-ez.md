@@ -1,7 +1,7 @@
 ---
 team-name: Team War? EZ!
 bot-name: War? EZ!
-confirmed: true
+confirmed: false
 facebook: BattleBotsSlapBox
 twitter:
 instagram:

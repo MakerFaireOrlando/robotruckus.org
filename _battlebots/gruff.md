@@ -6,14 +6,14 @@ facebook: gruffrobot
 twitter:
 instagram:
 youtube:
-heavy-compete: Yes
-heavy-static: no
+heavy-compete: no
+heavy-static: yes
 other-compete: no
 vip-event: yes
-panel: yes
+panel:
 battlebots-url: https://battlebots.com/robot/gruff-2020/
 team-photo: Gruff-Team-2020.jpg
 bot-photo: Gruff-bot-2020.jpg
 driver-photo: Gruff-Samuel-McAmis-2020
-participation: Gruff is back to compete at Robot Ruckus in the heavyweight arena. You can also hear from the team in a panel discussion, or try to convince Sam to light that flamethrower at the Ruckus VIP fundraiser!
+participation: See Gruff competing in the Robot Ruckus heavyweight arena. Gruff will be on display and the team will be available for meet and greet at the Ruckus VIP Fundraiser!
 ---

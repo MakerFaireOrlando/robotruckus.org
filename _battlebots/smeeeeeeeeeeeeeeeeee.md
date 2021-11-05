@@ -1,7 +1,7 @@
 ---
 team-name: Team SMEEEEEEEEEEEEEEEEEEEEEE
 bot-name: SMEEEEEEEEEEEEEEEEEE
-confirmed: true
+confirmed: false
 facebook: SMEEEEEEEEEEEEEEEEEEEEEE
 twitter:
 instagram:

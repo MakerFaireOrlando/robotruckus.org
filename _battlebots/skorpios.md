@@ -1,7 +1,7 @@
 ---
 team-name: Bot Bash Party
 bot-name: Skorpios
-confirmed: true
+confirmed: false
 facebook: SkorpiosBattleBot
 twitter:
 instagram: skorpios_battlebots

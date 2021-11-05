@@ -1,6 +1,7 @@
 ---
 team-name: Team Revolution
 bot-name: ROTATOR
+confirmed: true
 facebook: RotatoЯ-1044827785564479
 twitter:
 instagram:
@@ -14,5 +15,5 @@ battlebots-url: https://battlebots.com/robot/shatter-2019/
 team-photo: Rotator-Team-S2019.jpg
 bot-photo: Rotator-Bot-S2019.jpg
 driver-photo: Rotator-Victor-Soto-s2019.jpg
-participation: Team Revolution will have ROTATOR on display, they will be participating on a panel discussion, and joining us for the Ruckus VIP event! We've also heard that Victor has a fun-sized bot he may be bringing for some demos...
+participation: Rotator will be on display and the team will be available for meet and greet throughout the weekend and at the Ruckus VIP Fundraiser!
 ---

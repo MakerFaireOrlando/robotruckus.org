@@ -15,5 +15,5 @@ battlebots-url: https://battlebots.com/robot/kraken-2019/
 team-photo: Kraken-Team-2020.jpg
 bot-photo: Kraken-bot-2020.jpg
 driver-photo: Kraken-Matthew-Spurk-2020.jpg
-participation: Team Kraken returns to battle in our heavyweight arena! You can also see a Kraken on display, as well as hear from the team at a panel discussion or at our Ruckus VIP event!
+participation: Kraken will be on display and the team will be available for meet and greet throughout the weekend and at the Ruckus VIP Fundraiser!
 ---

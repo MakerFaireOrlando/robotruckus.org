@@ -1,11 +1,11 @@
 ---
 team-name: Team Shreddit
 bot-name: Pain Train
-confirmed: true
+confirmed: false
 facebook: PAINTRAINBB
 twitter:
 instagram: paintrain_battlebot
-youtube: 
+youtube:
 heavy-compete:
 heavy-static:
 other-compete:
