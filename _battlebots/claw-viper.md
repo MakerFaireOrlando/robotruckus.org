@@ -1,6 +1,6 @@
 ---
 team-name: Team Bad Ideas
-confirmed: true
+confirmed: false
 bot-name: Claw Viper
 facebook: clawviperbb
 twitter:

@@ -1,6 +1,6 @@
 ---
 team-name: HFA
-confirmed: true
+confirmed: false
 bot-name: Blacksmith
 facebook: Teamhfa
 twitter:

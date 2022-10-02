@@ -1,7 +1,7 @@
 ---
 team-name: Team XD
 bot-name: SubZero
-confirmed: true
+confirmed: false
 facebook: SubZeroBattleBot
 twitter:
 instagram:

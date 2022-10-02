@@ -1,7 +1,7 @@
 ---
 team-name: Team Danby
 bot-name: Slammo!
-confirmed: true
+confirmed: false
 facebook: teamdanby
 twitter: teamdanby
 instagram: teamdanby

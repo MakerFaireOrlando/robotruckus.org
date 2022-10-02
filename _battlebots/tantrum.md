@@ -1,7 +1,7 @@
 ---
 team-name: Seems Reasonable
 bot-name: Tantrum
-confirmed: true
+confirmed: false
 facebook: tantrum.battlebot
 twitter:
 instagram: tantrum.battlebot

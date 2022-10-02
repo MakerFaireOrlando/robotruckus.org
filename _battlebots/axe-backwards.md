@@ -1,7 +1,7 @@
 ---
 team-name: Axe Backwards
 bot-name: Axe Backwards
-confirmed: true
+confirmed: false
 facebook: axebackwards
 twitter:
 instagram: axe_backwards

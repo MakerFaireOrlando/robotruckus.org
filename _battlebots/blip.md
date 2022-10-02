@@ -1,6 +1,6 @@
 ---
 team-name: Seems Reasonable
-confirmed: true
+confirmed: false
 bot-name: Blip
 facebook: tantrum.battlebot
 twitter:
@@ -10,7 +10,7 @@ heavy-compete: no
 heavy-static: yes
 other-compete: no
 vip-event: yes
-panel: 
+panel:
 battlebots-url: https://battlebots.com/robot/blip-2021/
 team-photo: Blip-Team-2021.jpg
 bot-photo: lip-bot-2021.jpg

@@ -1,7 +1,7 @@
 ---
 team-name: Team Food Fight
 bot-name: Big Dill
-confirmed: true
+confirmed: false
 facebook: teamfoodfight
 twitter:
 instagram: teamfoodfight

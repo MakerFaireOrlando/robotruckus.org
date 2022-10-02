@@ -1,7 +1,7 @@
 ---
 team-name: Team Revolution
 bot-name: ROTATOR
-confirmed: true
+confirmed: false
 facebook: RotatoЯ-1044827785564479
 twitter:
 instagram:

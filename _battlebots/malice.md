@@ -1,6 +1,6 @@
 ---
 team-name: Team Malice
-confirmed: true
+confirmed: false
 bot-name: Malice
 facebook: malicebattlebot
 twitter:

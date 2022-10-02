@@ -1,7 +1,7 @@
 ---
 team-name: Forge & Farm Combat Robots
 bot-name: Bale Spear
-confirmed: true
+confirmed: false
 facebook: BALESPEAR
 twitter:
 instagram:
