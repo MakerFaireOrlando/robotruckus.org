@@ -1,7 +1,7 @@
 ---
 team-name: Team HyperShock
 bot-name: HyperShock
-confirmed: true
+confirmed: false
 facebook: hypershocktv
 twitter: hypershocktv
 instagram: hypershocktv

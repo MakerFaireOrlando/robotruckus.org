@@ -1,7 +1,7 @@
 ---
 team-name: Team Gruff
 bot-name: Gruff
-confirmed: true
+confirmed: no
 facebook: gruffrobot
 twitter:
 instagram:
