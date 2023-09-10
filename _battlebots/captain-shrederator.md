@@ -1,7 +1,7 @@
 ---
 team-name: Team LOGICOM
 bot-name: Captain Shrederator
-confirmed: false
+confirmed: true
 facebook: spinwinning
 twitter:
 instagram:

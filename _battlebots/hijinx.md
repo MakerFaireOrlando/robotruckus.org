@@ -1,7 +1,7 @@
 ---
 team-name: Offbeat Robotics
 bot-name: HiJinx
-confirmed: false
+confirmed: true
 facebook: HiJinx.BattleBot
 twitter:
 instagram: offbeat_robotics
