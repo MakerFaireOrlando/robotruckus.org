@@ -1,7 +1,7 @@
 ---
 team-name: Hardcore Robotics
 bot-name: Tombstone
-confirmed: true
+confirmed: false
 facebook: tombstonebot
 twitter:
 instagram:
