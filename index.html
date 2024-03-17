@@ -155,9 +155,13 @@ canonical: https://robotruckus.org
                 <div class="service-box">
 
                   <div class="service-content">
-                    <h4><a href="https://events.humanitix.com/maker-faire-orlando-and-robot-ruckus-vip-fundraiser" target="_blank">VIP Experience</a></h4>
+                    <h4>
+                      {%comment%}<a href="https://events.humanitix.com/maker-faire-orlando-and-robot-ruckus-vip-fundraiser" target="_blank">{%endcomment%}
+                        VIP Experience</a></h4>
                     <p>
-                      Want even more Robot Ruckus fun? Join us after hours for the <a href="https://events.humanitix.com/maker-faire-orlando-and-robot-ruckus-vip-fundraiser" target="_blank">Maker Faire Orlando VIP Fundraiser!</a>
+                      Want even more Robot Ruckus fun? Join us after hours for the 
+                      {%comment%}<a href="https://events.humanitix.com/maker-faire-orlando-and-robot-ruckus-vip-fundraiser" target="_blank">{%endcomment%}
+                        Maker Faire Orlando VIP Fundraiser! (Info coming later this summer!)</a>
                     </p>
                   </div>
                 </div>
@@ -235,15 +239,14 @@ canonical: https://robotruckus.org
               </div>
             </div>
 
-{%comment%}
             <a name="battlebots"></a>
             <div class="container">
               <div class="row mtb-50">
                 <div class="col-xs-12 col-sm-12">
                   <h4>Stay tuned for announcements of participating BattleBots teams!</h4>
                   </div></div></div>
-{%endcomment%}
 
+{%comment%}
             <!-- Team Members 04 -->
             <a name="battlebots"></a>
             <div class="container">
@@ -298,7 +301,7 @@ canonical: https://robotruckus.org
                   </div>
             </div>
             <!-- End Team Members 04 -->
-
+            {%endcomment%}
 	  <div class="mb-60"></div>
     <div class="mb-60"></div>
     <div class="mb-60"></div>
@@ -327,7 +330,6 @@ canonical: https://robotruckus.org
 
                   <a href="https://makerfaireorlando.com/attend">Get your tickets today!</a>
 
-                  Maker Faire Orlando {{site.event_year}} tickets will be on-sale later this summer, <a href="http://eepurl.com/bpCB8T">subscribe to our email updates</a> to stay informed!.
                   </p>
                   {% comment %}
 
