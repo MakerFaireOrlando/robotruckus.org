@@ -136,3 +136,11 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
+
+event_year: 2024
+event_date_descr: November 9 & 10, 2024
+event_date_descr_month_day: November 9 & 10
+
+event_location_descr: Central Florida Fairgrounds & Expo Halls
+
+contact_email: contact@robotruckus.org

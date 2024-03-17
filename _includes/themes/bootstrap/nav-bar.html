@@ -1,9 +1,9 @@
             <div class="top-menu">
               <p>
                 <span class="left">
-                  <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-calendar"></i>November 4 & 5, 2023</a>
+                  <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-calendar"></i>{{site.event_date_descr}}</a>
                             <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-map-marker"></i>Orlando, FL</a>
-                  <a href="mailto:contact@robotruckus.org"><i class="fa fa-envelope"></i>contact@robotruckus.org</a>
+                  <a href="mailto:{{site.contact_email}}"><i class="fa fa-envelope"></i>{{site.contact_email}}</a>
               	</span>
                 <span class="right hidden-sm-down">
                   {% if site.author.facebook %}<a href="https://www.facebook.com/{{ site.author.facebook }}/"><i class="fa fa-facebook"></i></a>{% endif %}
