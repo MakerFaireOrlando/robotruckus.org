@@ -1,7 +1,7 @@
             <div class="top-menu">
               <p>
                 <span class="left">
-                  <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-calendar"></i>{{site.data.settings.event_date_descr}}</a>
+                  <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-calendar"></i>{% include date-event.html %}</a>
                             <a href="{{ "/#tickets" | prepend:site.baseurl }}"><i class="fa fa-map-marker"></i>Orlando, FL</a>
                   <a href="mailto:{{site.data.settings.contact_email}}"><i class="fa fa-envelope"></i>{{site.data.settings.contact_email}}</a>
               	</span>
